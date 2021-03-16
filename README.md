@@ -1,2 +1,2 @@
 # PRO-C22-FAIRY-AND-STAR
-Move The Fairy Left And Right Using Keyevents. And Add Code To Show The Star Falling Down.
+In this project, you will apply what you have learned in the class 
